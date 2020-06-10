@@ -4,6 +4,9 @@
 
 This project was generated with .NeCore and Angular Cli [Angular CLI](https://github.com/angular/angular-cli) version 8.0.0.
 
+## Install dependencies
+Run 'npm install'
+
 ## Development server
 
 Run `ng serve` for a dev server. Now run the application.
